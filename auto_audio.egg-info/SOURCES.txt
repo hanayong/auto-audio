@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+auto_audio/__init__.py
+auto_audio/api.py
+auto_audio.egg-info/PKG-INFO
+auto_audio.egg-info/SOURCES.txt
+auto_audio.egg-info/dependency_links.txt
+auto_audio.egg-info/top_level.txt
